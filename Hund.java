@@ -6,6 +6,7 @@ public class Hund extends Tiere{
 		return "Wuff" +
 		"mein Fell ist:  " + fell;
 		System.out.println("Ich bin ein Hund");
+		System.out.println("Ich bin ein Hund");
 
 }
 }
