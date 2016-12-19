@@ -6,4 +6,4 @@ public class Katze extends Tiere{
 		return "Miau" +
 		"Mein Fell ist: " + fell;
 }
-}
+} //KATZE
